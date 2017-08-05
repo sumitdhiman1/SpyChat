@@ -6,7 +6,7 @@ import datetime
 
 #starting a spychat project
 
-spy_status="what,s up doc?"
+spy_status=" Available"
 
 STATUS_MESSAGES = ["what,s up doc?", "busy. ", "Available ."]
 
@@ -212,7 +212,7 @@ else:
 
     else:
 
-        print 'Please add a valid spy name'
+        print "Please add a valid spy name"
 
 
 
