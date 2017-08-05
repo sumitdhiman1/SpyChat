@@ -8,7 +8,7 @@ import datetime
 
 spy_status=" Available"
 
-STATUS_MESSAGES = ["what,s up doc?", "busy. ", "Available ."]
+STATUS_MESSAGES = ["what,s up doc?", "busy. ", "Available .", "Working."]
 
 print "Let's get started"
 
